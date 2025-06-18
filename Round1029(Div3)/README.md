@@ -1,5 +1,5 @@
 # Codeforces Contest Round 1029 Division 3
-## Ranking:
+## Ranking: 10459 / 41913
 ### Questions Solved: 3/8
 ### Questions Attempted: 5/8
 
