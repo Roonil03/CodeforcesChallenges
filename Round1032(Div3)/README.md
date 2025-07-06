@@ -1,6 +1,6 @@
 # Codeforces Contest Round 1032 Division 3
 
-## Ranking:
+## Ranking: 787 / 21836
 
 ### Questions Solved: 6/8
 ### Questions Attempted: 8/8
