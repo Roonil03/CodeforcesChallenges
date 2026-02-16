@@ -1,6 +1,6 @@
 # Codeforces Contest Round 1034 Division 3
 
-## Ranking: 
+## Ranking: 206 / 38010 
 
 ### Question Solved: 5 / 7
 ### Questions Attempted: 6 / 7
