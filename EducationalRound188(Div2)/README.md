@@ -1,5 +1,5 @@
 # Educational Codeforces Round 188 (Rated for Division 2)
-## Ranking: 
+## Ranking: 140 / 28013
 
 ### Questions Solved: 6 / 7
 ### Questions Attempted: 7 / 7
