@@ -1,5 +1,5 @@
 # Codeforces Round 1099 (Div. 2)
-## Ranking:
+## Ranking: 147 / 32290
 
 ### Questions Solved: 5/6
 ### Questions Attempted: 5/6
