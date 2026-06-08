@@ -1,5 +1,5 @@
 # Educational Codeforces Round 190 (Rated for Div. 2)
-## Ranking:
+## Ranking: 548 / 28332
 ### Questions Solved: 4/6
 ### Questions Attempted: 4/6
 The contest was held on 18th May. 2026 from 14:35 UTC  
