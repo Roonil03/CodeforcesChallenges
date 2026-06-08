@@ -1,6 +1,6 @@
 # Spectral::Cup 2026 Round 2 (Codeforces Round 1100, Div. 1 + Div. 2)
 
-## Ranking: 
+## Ranking: 1871 / 22772
 
 ### Questions Solved: 5 / 10
 ### Questions Attempted: 5 / 10
