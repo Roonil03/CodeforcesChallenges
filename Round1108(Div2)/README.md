@@ -1,6 +1,6 @@
 # Codeforces Round 1108 (Div. 2)
 
-## Ranking:
+## Ranking: 585 / 22376
 ### Questions Solved: 4/6
 ### Questions Attempted: 5/6
 
