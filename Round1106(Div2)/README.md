@@ -1,6 +1,6 @@
 # Codeforces Round 1106 (Div. 2)
 
-## Ranking:
+## Ranking: 511 / 24422
 ### Questions Solved: 5/6
 ### Questions Attempted: 5/6
 
