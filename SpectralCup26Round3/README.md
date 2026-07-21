@@ -1,6 +1,6 @@
 # Spectral::Cup 2026 Round 3 (Codeforces Round 1110, Div. 1 + Div. 2)
 
-## Ranking: 
+## Ranking: 2546 / 15411
 
 ### Questions Solved: 3 / 9
 ### Questions Attempted: 4 / 9
