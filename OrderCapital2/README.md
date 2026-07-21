@@ -1,5 +1,5 @@
 # Order Capital Round 2 (Codeforces Round 1104, Div. 1 + Div. 2)
-## Ranking:
+## Ranking: 2424 / 27721
 
 ### Questions Solved: 4/10
 ### Questions Solved: 5/10
