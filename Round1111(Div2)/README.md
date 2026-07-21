@@ -1,6 +1,6 @@
 # Codeforces Round 1111 (Div. 2)
 
-## Rating:
+## Rating: 553 / 19256
 ### Number of Questions Solved: 5/7
 ### Number of Questions Attempted: 6/7
 
