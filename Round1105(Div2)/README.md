@@ -1,6 +1,6 @@
 # Codeforces Round 1105 (Div. 2)
 
-## Ranking:
+## Ranking: 582 / 19756
 ### Questions Solved: 4/6
 ### Questions Attempted: 5/6
 
